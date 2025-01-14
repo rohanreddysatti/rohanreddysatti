@@ -8,6 +8,38 @@ body {
     color: #333;
 }
 
+#projects {
+    margin-top: 2em;
+}
+
+.project {
+    margin-bottom: 2em;
+    padding: 1em;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.project h3 {
+    color: #005b99;
+    margin-bottom: 0.5em;
+}
+
+.project p {
+    font-size: 1em;
+    margin: 0.2em 0;
+}
+
+.project ul {
+    list-style: disc;
+    padding-left: 1.5em;
+}
+
+.project ul li {
+    margin-bottom: 0.5em;
+}
+
+
 /* Header */
 header {
     text-align: center;
